@@ -17,4 +17,8 @@ If I can set up a lightweight WebSocket server on a Raspberry Pi to allow four p
 
 So, if you want to learn how to make this kind of game in Quest 3, feel free to follow along and create your own based on what you learn. You are more than welcome!  
 
+For information here is the inital pitch and the representation of what it looks like in the idea:
+[![image](https://github.com/user-attachments/assets/896477f3-2124-4715-82f3-27b0cf3d501f)](https://github.com/EloiStree/2025_01_07_PitchDeckNtpIntPiGame/tree/main)
+
+
 -------------------------
