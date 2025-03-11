@@ -38,7 +38,7 @@ State of the project: https://github.com/users/EloiStree/projects/22
   - [ ] Create a debug tool to send an integer from an inspector menu.  
   - [ ] Create a debug tool to send an integer from a 2D UI menu.  
   - [ ] Optionally: Create a debug tool to send an integer from a 3D World UI debug menu for XR.
-  - [ ] Take the time to learn Unity3D timeline and linked to Integer event.
+  - [ ] Optionally: Take the time to learn Unity3D timeline and linked to Integer event.
 
 - [ ] Set up the Raspberry Pi installation.  
   - [ ] How to install the Raspberry Pi.  
