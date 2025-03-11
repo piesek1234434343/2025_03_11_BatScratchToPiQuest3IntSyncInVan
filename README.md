@@ -24,4 +24,28 @@ Bonus: It would be really fun if this were applied to a table tennis game for th
 Imagine four kits scrambling to get into position and hit the bat as fast as they can... 🏓🧙‍♂️👏
 I’d love to see that in action!
 
+State of the project: https://github.com/users/EloiStree/projects/22
+
 -------------------------
+
+
+**Week 1, 2025-05-11:**  
+
+- [ ] Set up an integer mockup lobby while waiting for the step to be written and ready.  
+  - [ ] Be able to restart the game or end it on a developer command.  
+  - [ ] Be able to send an integer and receive one from within the game.  
+  - [ ] Be able to link an action to the received integer.  
+  - [ ] Create a debug tool to send an integer from an inspector menu.  
+  - [ ] Create a debug tool to send an integer from a 2D UI menu.  
+  - [ ] Optionally: Create a debug tool to send an integer from a 3D World UI debug menu for XR.  
+
+- [ ] Set up the Raspberry Pi installation.  
+  - [ ] How to install the Raspberry Pi.  
+  - [ ] How to set up the Raspberry Pi as an NTP server.  
+  - [ ] How to set up the Raspberry Pi as an integer WebSocket server.  
+  - [ ] If the internet is available, download the latest version at startup.  
+  - [ ] If an Android device is detected at startup, install the latest APK on it.  
+  - [ ] If an Android device is detected at startup, enable ADB Wi-Fi access on all detected devices.  
+  - [ ] Ensure that restarting the device is the only requirement for a monitor to function.  
+
+
