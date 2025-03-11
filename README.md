@@ -20,5 +20,8 @@ So, if you want to learn how to make this kind of game in Quest 3, feel free to 
 For information here is the inital pitch and the representation of what it looks like in the idea:
 [![image](https://github.com/user-attachments/assets/896477f3-2124-4715-82f3-27b0cf3d501f)](https://github.com/EloiStree/2025_01_07_PitchDeckNtpIntPiGame/tree/main)
 
+Bonus: It would be really fun if this were applied to a table tennis game for the club! ^^
+Imagine four kits scrambling to get into position and hit the bat as fast as they can... 🏓🧙‍♂️👏
+I’d love to see that in action!
 
 -------------------------
