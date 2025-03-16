@@ -26,6 +26,9 @@ I’d love to see that in action!
 
 State of the project: https://github.com/users/EloiStree/projects/22
 
+[![image](https://github.com/user-attachments/assets/496ee651-552e-4e5c-a36f-a94567bc5aa3)](https://sketchfab.com/3d-models/golden-snitch-sgp29-ddf3f777809845df8c388cd346067d15) 
+https://sketchfab.com/3d-models/golden-snitch-sgp29-ddf3f777809845df8c388cd346067d15  
+
 -------------------------
 
 
