@@ -293,10 +293,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3216998209466556742, guid: c97343d31f567b34a903eff8849f417e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7a6d54d44ce7dfd4c8512739595c491d, type: 2}
     - target: {fileID: 919132149155446097, guid: c97343d31f567b34a903eff8849f417e, type: 3}
       propertyPath: m_Name
       value: Snitch2.fbx
       objectReference: {fileID: 0}
+    - target: {fileID: 5627536580146057677, guid: c97343d31f567b34a903eff8849f417e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: de05b8b1b3f53ea46a2faaddc70ad956, type: 2}
+    - target: {fileID: 5627536580146057677, guid: c97343d31f567b34a903eff8849f417e, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f8081f323e5dd5143b68d77ad21f9644, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

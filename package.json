@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.batscratchintmulti",                              
+  "displayName": "Bat Scratch Snitcher",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "You package description",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2025_03_11_BatScratchToPiQuest3IntSyncInVan.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
