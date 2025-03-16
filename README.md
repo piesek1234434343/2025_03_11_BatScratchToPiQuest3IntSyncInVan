@@ -53,3 +53,6 @@ https://sketchfab.com/3d-models/golden-snitch-sgp29-ddf3f777809845df8c388cd34606
   - [ ] Ensure that restarting the device is the only requirement for a monitor to function.  
 
 
+Switching the server URL between online and offline testing can be a hassle. It would be much easier if the system worked offline by default and seamlessly connected to the online server when the internet is available.  
+- [ ] Enable an offline APInt server to automatically connect to an online server when internet access is available.
+
